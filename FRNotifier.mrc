@@ -1,6 +1,6 @@
 ;======================================
 ;Fuel Rats SIGNAL Notification Script
-;An easy way to start getting rat signals for mIRC
+;An easy way to start getting rat signals for mIRC.
 ;Freely available to all Fuel Rats, (Released under CC BY-NC-SA 4.0)
 ;======================================
 
